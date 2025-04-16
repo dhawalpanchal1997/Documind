@@ -87,11 +87,8 @@ A strong system prompt is used to prevent hallucinations by:
 
 ## 📌 TODOs / Future Enhancements
 
-- Add persistent vector storage (e.g., FAISS or Chroma)
-- Multi-document support
+- Add persistent vector storage (e.g., Postgresql, FAISS or Chroma)
+- Multi-document support (doc, docx, excel, png, jpge etc)
 - UI enhancements & document highlighting
 - Authentication & session-based context tracking
 
-## 📄 License
-
-MIT License
